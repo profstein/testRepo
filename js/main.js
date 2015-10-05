@@ -9,6 +9,7 @@ function draw(){
     if(mouseIsPressed){
      line(pmouseX,pmouseY,mouseX,mouseY);
     }
+    //more stuff
 }
 
 function mousePressed(){
