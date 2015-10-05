@@ -10,3 +10,9 @@ function draw(){
      line(pmouseX,pmouseY,mouseX,mouseY);
     }
 }
+
+function mousePressed(){
+ console.log('mousepressed');
+
+
+}
