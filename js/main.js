@@ -6,6 +6,7 @@ function setup(){
 }
 
 function draw(){
+    createCanvas(700,450);
     if(mouseIsPressed){
      line(pmouseX,pmouseY,mouseX,mouseY);
     }
